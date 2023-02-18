@@ -1,0 +1,17 @@
+commit 5057eb56faed80202d20221bd2d13d264c10bd69
+Author: Sandra Suurkask <sarascono@gmail.com>
+Date:   Fri Feb 17 22:41:29 2023 +0200
+
+    Add goodbye
+
+commit 56505a13b4f8302e1f8099d068fd3230d191e5cb
+Author: Sandra Suurkask <sarascono@gmail.com>
+Date:   Fri Feb 17 21:04:11 2023 +0200
+
+    Add another line to readme
+
+commit 7b7ebe9c58ff0d62bb634e6d302699c93800f388
+Author: Sandra Suurkask <sarascono@gmail.com>
+Date:   Fri Feb 17 20:32:25 2023 +0200
+
+    Init commit
