@@ -20,3 +20,4 @@ Reede
 
 uus rida
 Homme olen Viinis
+Mõned tunnid veel aega
